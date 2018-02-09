@@ -1,0 +1,19 @@
+{
+  "name": "fbapi-front-vuejs2",
+  "version": "0.0.1",
+  "description": "Basic Front-end App for Facebook API, Created with VueJS2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyis/fbapi-frontend-js.git"
+  },
+  "author": "jimmyis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyis/fbapi-frontend-js/issues"
+  },
+  "homepage": "https://github.com/jimmyis/fbapi-frontend-js#readme"
+}
